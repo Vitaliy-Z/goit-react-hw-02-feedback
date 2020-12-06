@@ -1,0 +1,10 @@
+.main {
+  text-align: center;
+}
+
+.name {
+  text-decoration: underline;
+  letter-spacing: 10px;
+  font-size: 45px;
+  color: rgb(235, 156, 66);
+}

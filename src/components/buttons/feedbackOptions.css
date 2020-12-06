@@ -1,0 +1,23 @@
+.buttons {
+  display: inline-flex;
+  justify-content: space-around;
+  list-style: none;
+
+  padding: 20px;
+
+  width: 50%;
+
+  background-color: rgba(160, 154, 154, 0.1);
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.btn {
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  font-size: 18px;
+  color: white;
+  background-color: rgba(99, 165, 240, 0.986);
+  padding: 10px 20px;
+  border-radius: 5px;
+}
